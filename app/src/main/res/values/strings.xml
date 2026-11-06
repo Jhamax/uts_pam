@@ -1,0 +1,46 @@
+<resources>
+    <!--  Splash  -->
+    <string name="app_name">Brew &amp; Bite</string>
+    <string name="slogan">Get a taste of your wish</string>
+    <string name="btnStartNow">Start Now</string>
+    <string name="welcome">WELCOME TO</string>
+
+    <!-- Sign Up -->
+    <string name="sign_up_title">Sign up</string>
+    <string name="sign_up_description">Join as a member &amp; experience more fun from various meal at Brew &amp; Bite app</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+
+    <!--  Register  -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Fill in your details to get started with Brew &amp; Bite</string>
+    <string name="hint_fullname">Nama Lengkap</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register_action">Register</string>
+    <string name="already_have_account">Sudah punya akun? &lt;font color=\'#2196F3\'&gt;&lt;b&gt;Login&lt;/b&gt;&lt;/font&gt;</string>
+
+    <!--  Login  -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to continue enjoying Brew &amp; Bite</string>
+    <string name="forgot_password">Lupa Password?</string>
+    <string name="btn_login_action">Login</string>
+    <string name="dont_have_account">Sudah punya akun? &lt;font color=\'#2196F3\'&gt;&lt;b&gt;Register&lt;/b&gt;&lt;/font&gt;</string>
+
+    <!--  Home/MainActivity  -->
+    <string name="home_judul">Halo, %1$s!</string>
+    <string name="home_subtitle">Mau pesan apa hari ini?</string>
+    <string name="menu_section_title">Daftar Makanan &amp; Minuman</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_order">Order</string>
+    <string name="nav_profile">Profile</string>
+
+    <!--  Order  -->
+    <string name="co">Checkout</string>
+    <string name="order_item">Item Pesanan</string>
+    <string name="contoh_order">Kopi Susu Gula Aren</string>
+    <string name="detail_order">Detail Pengiriman</string>
+    <string name="alamat_order">Alamat Lengkap</string>
+    <string name="catatan_order">Catatan (Opsional)</string>
+
+</resources>
