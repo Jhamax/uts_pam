@@ -8,7 +8,7 @@ Proyek ini dibangun menggunakan **Kotlin** dan **XML (ConstraintLayout)** untuk 
 
 ## 📸 Tampilan Aplikasi (Screenshots)
 
-|           Splash Screen           |              Sign Up               |              Register               |             Register               |
+|           Splash Screen           |              Sign Up               |              Register               |             Login               |
 |:---------------------------------:|:----------------------------------:|:--------------------------------:|:----------------------------------:|
 | ![Splash](screenshots/splash.png) | ![Sign Up](screenshots/signup.png) | ![Register](screenshots/register.png)  | ![Login](screenshots/login.png) |
 
