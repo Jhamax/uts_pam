@@ -22,7 +22,7 @@ Proyek ini dibangun menggunakan **Kotlin** dan **XML (ConstraintLayout)** untuk 
 
 - **Autentikasi Pengguna**: Layar Splash, Login, dan Register dengan validasi input dasar.
 - **Daftar Menu Interaktif**: Menampilkan daftar produk menggunakan `RecyclerView` dan `ConstraintLayout`.
-- **Sistem Keranjang Multi-Item (`CartManager`)**: Menggunakan arsitektur *Singleton Object* untuk menampung banyak item pesanan sekaligus dari katalog.
+- **Sistem Order Multi-Item (`CartManager`)**: Menggunakan arsitektur *Singleton Object* untuk menampung banyak item pesanan sekaligus dari katalog.
 - **Kalkulasi Total Otomatis**: Menghitung ringkasan item dan akumulasi harga secara real-time di halaman *Checkout*.
 - **Konfirmasi & Resi Pesanan**: Halaman ringkasan sukses transaksi (*Success/Receipt Screen*) yang menampilkan alamat, catatan, dan rincian pembayaran.
 - **Profil Pengguna**: Manajemen profil interaktif dengan dukungan *Initial Avatar* dinamis.
