@@ -57,4 +57,4 @@ Proyek ini dibangun menggunakan **Kotlin** dan **XML (ConstraintLayout)** untuk 
 
 1. **Clone Repository Ini**
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/NAMA_REPOSITORY_KAMU.git](https://github.com/USERNAME_KAMU/NAMA_REPOSITORY_KAMU.git)
+   https://github.com/Jhamax/uts_pam.git
