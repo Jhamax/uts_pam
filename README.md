@@ -1,4 +1,4 @@
-# ☕ Brew & Bite - University Android Project
+# ☕ Brew & Bite 
 
 Aplikasi pemesanan makanan dan minuman berbasis Android native dengan skema warna kopi (*Coffee-themed Palette*).
 
