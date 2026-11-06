@@ -1,6 +1,6 @@
 # ☕ Brew & Bite - University Android Project
 
-Aplikasi pemesanan makanan dan minuman berbasis Android native dengan konsep desain **Flat UI Aesthetic** (zero shadow/elevation) dan skema warna kopi (*Coffee-themed Palette*).
+Aplikasi pemesanan makanan dan minuman berbasis Android native dengan skema warna kopi (*Coffee-themed Palette*).
 
 Proyek ini dibangun menggunakan **Kotlin** dan **XML (ConstraintLayout)** untuk memenuhi tugas mata kuliah Pemrograman Aplikasi Mobile (PAM).
 
