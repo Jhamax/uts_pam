@@ -63,22 +63,22 @@ Proyek ini dibangun menggunakan **Kotlin** dan **XML (ConstraintLayout)** untuk 
 Untuk mencoba seluruh fitur aplikasi secara runtut, ikuti alur penggunaan berikut:
 
 1. **Splash Screen**: 
-   - Saat aplikasi dibuka pertama kali, halaman Splash akan muncul selama beberapa detik sebelum otomatis mengarah ke halaman Login.
+   - Saat aplikasi dibuka pertama kali, halaman Splash akan muncul selama beberapa detik sebelum otomatis mengarah ke Start Page.
 2. **Autentikasi (Login & Register)**:
    - Jika belum memiliki akun, klik teks **Register** untuk membuat akun baru.
    - Pada halaman Login, masukkan **Username** (nama ini akan digunakan sebagai nama profil dan sapaan di utama) dan **Password**, lalu klik **Login**.
 3. **Eksplorasi Katalog Menu (Home)**:
    - Di halaman utama, pengguna disambut dengan sapaan nama pengguna (`Halo, [Username]!`).
-   - Tekan/klik item makanan atau minuman pada daftar `RecyclerView` untuk memasukkannya ke dalam keranjang belanja.
-4. **Kelola Keranjang (Cart / Order)**:
-   - Klik tab **Cart** pada bar navigasi di bagian bawah.
+   - Tekan/klik item makanan atau minuman pada daftar `RecyclerView` untuk memasukkannya ke dalam list order.
+4. **Kelola Order (Order)**:
+   - Klik tab **Order** pada bar navigasi di bagian bawah.
    - Halaman ini akan menampilkan daftar menu yang telah dipilih beserta akumulasi **Total Pembayaran** yang dihitung secara otomatis.
 5. **Checkout & Pengisian Data**:
    - Masukkan **Alamat Lengkap** (wajib) dan **Catatan Pesanan** (opsional).
    - Klik tombol **Konfirmasi Pesanan**.
 6. **Resi / Bukti Transaksi (Confirmation)**:
    - Layar sukses akan menampilkan detail transaksi: daftar item, alamat pengiriman, catatan, dan total tagihan lunas.
-   - Keranjang belanja akan otomatis dikosongkan.
-   - Klik **Kembali ke Beranda** untuk melanjutkan transaksi baru (nama pengguna tetap terjaga).
+   - List order akan otomatis dikosongkan.
+   - Klik **Kembali ke Beranda** untuk melanjutkan transaksi baru.
 7. **Profil Pengguna**:
-   - Klik tab **Profile** pada navigasi bawah untuk melihat status *Brew Premium Member*, statistik pesanan, serta mengubah nama akun.
+   - Klik tab **Profile** pada navigasi bawah untuk melihat status *Brew Premium Member*, statistik pesanan, serta mengubah nama pengguna.
