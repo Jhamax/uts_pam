@@ -10,7 +10,7 @@ Proyek ini dibangun menggunakan **Kotlin** dan **XML (ConstraintLayout)** untuk 
 
 |           Splash Screen           |              Sign Up               |              Login               |             Register               |
 |:---------------------------------:|:----------------------------------:|:--------------------------------:|:----------------------------------:|
-| ![Splash](screenshots/splash.png) | ![Sign Up](screenshots/signup.png) | ![Login](screenshots/login.png)  | ![Register](screenshots/login.png) |
+| ![Splash](screenshots/splash.png) | ![Sign Up](screenshots/signup.png) | ![Login](screenshots/login.png)  | ![Register](screenshots/register.png) |
 
 |           Home Menu            |             Order              |              Konfirmasi Pesanan               |               Profile               |
 |:------------------------------:|:------------------------------:|:---------------------------------------------:|:-----------------------------------:|
